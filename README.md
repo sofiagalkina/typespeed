@@ -4,7 +4,7 @@ This is a type speed program that prompts user to enter a sample text displayed,
 It calculate the amount of words, sentences, and carachters, and also gives an average amount of words typed per minute using a simple formula - words typed multiplied by 60 seconds and dividing the result by the amount of time it took the user to type.
 
 ***
-[Software Demo Video]([https://youtu.be/rRHEh4Egdps](https://youtu.be/08HNyan2w6E))
+[Software Demo Video](https://youtu.be/08HNyan2w6E)
 
 ***
 

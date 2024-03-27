@@ -1,10 +1,10 @@
 # Overview
 ***
-This is a type speed programm that prompts user to enter a sample text displayed, or can also work with whatever input the user wants to make.
+This is a type speed program that prompts user to enter a sample text displayed, or can also work with whatever input the user wants to make.
 It calculate the amount of words, sentences, and carachters, and also gives an average amount of words typed per minute using a simple formula - words typed multiplied by 60 seconds and dividing the result by the amount of time it took the user to type.
 
 ***
-[Software Demo Video](https://youtu.be/rRHEh4Egdps)
+[Software Demo Video]([https://youtu.be/rRHEh4Egdps](https://youtu.be/08HNyan2w6E))
 
 ***
 
